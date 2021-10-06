@@ -1,0 +1,278 @@
+[ INFO ][ 2019/12/16 17:10:01.952 ][ Producer 0] Alice's Adventures in Wonderland
+[ INFO ][ 2019/12/16 17:10:01.972 ][ Producer 8] 
+[ DEBUG ][ 2019/12/16 17:10:01.972 ][ Producer 5]                 ALICE'S ADVENTURES IN WONDERLAND
+[ CRITICAL ][ 2019/12/16 17:10:01.972 ][ Producer 6] 
+[ DEBUG ][ 2019/12/16 17:10:01.973 ][ Producer 7]                           Lewis Carroll
+[ INFO ][ 2019/12/16 17:10:01.973 ][ Producer 4] 
+[ INFO ][ 2019/12/16 17:10:01.973 ][ Producer 3]                THE MILLENNIUM FULCRUM EDITION 3.0
+[ INFO ][ 2019/12/16 17:10:01.973 ][ Producer 2] 
+[ DEBUG ][ 2019/12/16 17:10:01.973 ][ Producer 1] 
+[ WARNING ][ 2019/12/16 17:10:02.469 ][ Producer 7] 
+[ DEBUG ][ 2019/12/16 17:10:03.877 ][ Producer 6] 
+[ CRITICAL ][ 2019/12/16 17:10:04.367 ][ Producer 0]                             CHAPTER I
+[ DEBUG ][ 2019/12/16 17:10:04.378 ][ Producer 8] 
+[ WARNING ][ 2019/12/16 17:10:04.765 ][ Producer 0]                       Down the Rabbit-Hole
+[ DEBUG ][ 2019/12/16 17:10:05.520 ][ Producer 5] 
+[ WARNING ][ 2019/12/16 17:10:05.730 ][ Producer 3] 
+[ CRITICAL ][ 2019/12/16 17:10:05.814 ][ Producer 5]   Alice was beginning to get very tired of sitting by her sister
+[ DEBUG ][ 2019/12/16 17:10:06.050 ][ Producer 2] on the bank, and of having nothing to do:  once or twice she had
+[ INFO ][ 2019/12/16 17:10:06.113 ][ Producer 3] peeped into the book her sister was reading, but it had no
+[ INFO ][ 2019/12/16 17:10:06.620 ][ Producer 1] pictures or conversations in it, `and what is the use of a book,'
+[ DEBUG ][ 2019/12/16 17:10:06.739 ][ Producer 4] thought Alice `without pictures or conversation?'
+[ DEBUG ][ 2019/12/16 17:10:06.818 ][ Producer 1] 
+[ INFO ][ 2019/12/16 17:10:07.042 ][ Producer 6]   So she was considering in her own mind (as well as she could,
+[ INFO ][ 2019/12/16 17:10:07.067 ][ Producer 7] for the hot day made her feel very sleepy and stupid), whether
+[ WARNING ][ 2019/12/16 17:10:08.455 ][ Producer 8] the pleasure of making a daisy-chain would be worth the trouble
+[ WARNING ][ 2019/12/16 17:10:09.211 ][ Producer 4] of getting up and picking the daisies, when suddenly a White
+[ INFO ][ 2019/12/16 17:10:09.276 ][ Producer 3] Rabbit with pink eyes ran close by her.
+[ DEBUG ][ 2019/12/16 17:10:09.386 ][ Producer 8] 
+[ WARNING ][ 2019/12/16 17:10:09.627 ][ Producer 0]   There was nothing so VERY remarkable in that; nor did Alice
+[ CRITICAL ][ 2019/12/16 17:10:09.783 ][ Producer 7] think it so VERY much out of the way to hear the Rabbit say to
+[ DEBUG ][ 2019/12/16 17:10:10.232 ][ Producer 1] itself, `Oh dear!  Oh dear!  I shall be late!'  (when she thought
+[ CRITICAL ][ 2019/12/16 17:10:10.361 ][ Producer 6] it over afterwards, it occurred to her that she ought to have
+[ WARNING ][ 2019/12/16 17:10:10.374 ][ Producer 2] wondered at this, but at the time it all seemed quite natural);
+[ CRITICAL ][ 2019/12/16 17:10:10.639 ][ Producer 5] but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-
+[ WARNING ][ 2019/12/16 17:10:10.679 ][ Producer 2] POCKET, and looked at it, and then hurried on, Alice started to
+[ CRITICAL ][ 2019/12/16 17:10:10.884 ][ Producer 0] her feet, for it flashed across her mind that she had never
+[ WARNING ][ 2019/12/16 17:10:11.501 ][ Producer 0] before seen a rabbit with either a waistcoat-pocket, or a watch to
+[ INFO ][ 2019/12/16 17:10:12.232 ][ Producer 2] take out of it, and burning with curiosity, she ran across the
+[ CRITICAL ][ 2019/12/16 17:10:12.295 ][ Producer 8] field after it, and fortunately was just in time to see it pop
+[ WARNING ][ 2019/12/16 17:10:12.731 ][ Producer 4] down a large rabbit-hole under the hedge.
+[ CRITICAL ][ 2019/12/16 17:10:12.740 ][ Producer 6] 
+[ DEBUG ][ 2019/12/16 17:10:12.863 ][ Producer 7]   In another moment down went Alice after it, never once
+[ WARNING ][ 2019/12/16 17:10:13.051 ][ Producer 5] considering how in the world she was to get out again.
+[ DEBUG ][ 2019/12/16 17:10:13.140 ][ Producer 2] 
+[ CRITICAL ][ 2019/12/16 17:10:13.333 ][ Producer 2]   The rabbit-hole went straight on like a tunnel for some way,
+[ CRITICAL ][ 2019/12/16 17:10:13.685 ][ Producer 0] and then dipped suddenly down, so suddenly that Alice had not a
+[ INFO ][ 2019/12/16 17:10:13.875 ][ Producer 5] moment to think about stopping herself before she found herself
+[ INFO ][ 2019/12/16 17:10:13.918 ][ Producer 1] falling down a very deep well.
+[ INFO ][ 2019/12/16 17:10:14.067 ][ Producer 3] 
+[ WARNING ][ 2019/12/16 17:10:14.309 ][ Producer 1]   Either the well was very deep, or she fell very slowly, for she
+[ DEBUG ][ 2019/12/16 17:10:15.848 ][ Producer 3] had plenty of time as she went down to look about her and to
+[ INFO ][ 2019/12/16 17:10:16.781 ][ Producer 0] wonder what was going to happen next.  First, she tried to look
+[ INFO ][ 2019/12/16 17:10:16.903 ][ Producer 6] down and make out what she was coming to, but it was too dark to
+[ CRITICAL ][ 2019/12/16 17:10:17.145 ][ Producer 8] see anything; then she looked at the sides of the well, and
+[ INFO ][ 2019/12/16 17:10:17.159 ][ Producer 6] noticed that they were filled with cupboards and book-shelves;
+[ CRITICAL ][ 2019/12/16 17:10:17.182 ][ Producer 2] here and there she saw maps and pictures hung upon pegs.  She
+[ WARNING ][ 2019/12/16 17:10:17.334 ][ Producer 3] took down a jar from one of the shelves as she passed; it was
+[ INFO ][ 2019/12/16 17:10:17.396 ][ Producer 5] labelled `ORANGE MARMALADE', but to her great disappointment it
+[ DEBUG ][ 2019/12/16 17:10:17.458 ][ Producer 8] was empty:  she did not like to drop the jar for fear of killing
+[ WARNING ][ 2019/12/16 17:10:17.529 ][ Producer 1] somebody, so managed to put it into one of the cupboards as she
+[ CRITICAL ][ 2019/12/16 17:10:17.608 ][ Producer 4] fell past it.
+[ INFO ][ 2019/12/16 17:10:17.614 ][ Producer 7] 
+[ CRITICAL ][ 2019/12/16 17:10:17.912 ][ Producer 5]   `Well!' thought Alice to herself, `after such a fall as this, I
+[ INFO ][ 2019/12/16 17:10:18.831 ][ Producer 2] shall think nothing of tumbling down stairs!  How brave they'll
+[ INFO ][ 2019/12/16 17:10:18.902 ][ Producer 0] all think me at home!  Why, I wouldn't say anything about it,
+[ DEBUG ][ 2019/12/16 17:10:19.126 ][ Producer 4] even if I fell off the top of the house!' (Which was very likely
+[ DEBUG ][ 2019/12/16 17:10:20.025 ][ Producer 4] true.)
+[ DEBUG ][ 2019/12/16 17:10:20.463 ][ Producer 3] 
+[ CRITICAL ][ 2019/12/16 17:10:21.063 ][ Producer 6]   Down, down, down.  Would the fall NEVER come to an end!  `I
+[ DEBUG ][ 2019/12/16 17:10:21.350 ][ Producer 3] wonder how many miles I've fallen by this time?' she said aloud.
+[ CRITICAL ][ 2019/12/16 17:10:21.817 ][ Producer 1] `I must be getting somewhere near the centre of the earth.  Let
+[ WARNING ][ 2019/12/16 17:10:21.830 ][ Producer 2] me see:  that would be four thousand miles down, I think--' (for,
+[ INFO ][ 2019/12/16 17:10:22.009 ][ Producer 8] you see, Alice had learnt several things of this sort in her
+[ DEBUG ][ 2019/12/16 17:10:22.304 ][ Producer 7] lessons in the schoolroom, and though this was not a VERY good
+[ DEBUG ][ 2019/12/16 17:10:22.485 ][ Producer 5] opportunity for showing off her knowledge, as there was no one to
+[ CRITICAL ][ 2019/12/16 17:10:22.883 ][ Producer 0] listen to her, still it was good practice to say it over) `--yes,
+[ INFO ][ 2019/12/16 17:10:23.154 ][ Producer 2] that's about the right distance--but then I wonder what Latitude
+[ INFO ][ 2019/12/16 17:10:24.056 ][ Producer 4] or Longitude I've got to?'  (Alice had no idea what Latitude was,
+[ CRITICAL ][ 2019/12/16 17:10:24.297 ][ Producer 7] or Longitude either, but thought they were nice grand words to
+[ CRITICAL ][ 2019/12/16 17:10:24.386 ][ Producer 8] say.)
+[ CRITICAL ][ 2019/12/16 17:10:25.311 ][ Producer 5] 
+[ DEBUG ][ 2019/12/16 17:10:25.397 ][ Producer 6]   Presently she began again.  `I wonder if I shall fall right
+[ CRITICAL ][ 2019/12/16 17:10:25.463 ][ Producer 0] THROUGH the earth!  How funny it'll seem to come out among the
+[ CRITICAL ][ 2019/12/16 17:10:25.474 ][ Producer 3] people that walk with their heads downward!  The Antipathies, I
+[ DEBUG ][ 2019/12/16 17:10:25.570 ][ Producer 2] think--' (she was rather glad there WAS no one listening, this
+[ INFO ][ 2019/12/16 17:10:25.946 ][ Producer 1] time, as it didn't sound at all the right word) `--but I shall
+[ INFO ][ 2019/12/16 17:10:26.511 ][ Producer 4] have to ask them what the name of the country is, you know.
+[ INFO ][ 2019/12/16 17:10:26.540 ][ Producer 4] Please, Ma'am, is this New Zealand or Australia?' (and she tried
+[ CRITICAL ][ 2019/12/16 17:10:27.229 ][ Producer 8] to curtsey as she spoke--fancy CURTSEYING as you're falling
+[ WARNING ][ 2019/12/16 17:10:27.598 ][ Producer 0] through the air!  Do you think you could manage it?)  `And what
+[ INFO ][ 2019/12/16 17:10:27.659 ][ Producer 7] an ignorant little girl she'll think me for asking!  No, it'll
+[ DEBUG ][ 2019/12/16 17:10:27.792 ][ Producer 6] never do to ask:  perhaps I shall see it written up somewhere.'
+[ INFO ][ 2019/12/16 17:10:28.093 ][ Producer 7] 
+[ WARNING ][ 2019/12/16 17:10:28.556 ][ Producer 3]   Down, down, down.  There was nothing else to do, so Alice soon
+[ INFO ][ 2019/12/16 17:10:28.662 ][ Producer 4] began talking again.  `Dinah'll miss me very much to-night, I
+[ DEBUG ][ 2019/12/16 17:10:29.111 ][ Producer 2] should think!'  (Dinah was the cat.)  `I hope they'll remember
+[ DEBUG ][ 2019/12/16 17:10:29.119 ][ Producer 1] her saucer of milk at tea-time.  Dinah my dear!  I wish you were
+[ WARNING ][ 2019/12/16 17:10:29.648 ][ Producer 0] down here with me!  There are no mice in the air, I'm afraid, but
+[ INFO ][ 2019/12/16 17:10:30.029 ][ Producer 5] you might catch a bat, and that's very like a mouse, you know.
+[ DEBUG ][ 2019/12/16 17:10:30.553 ][ Producer 7] But do cats eat bats, I wonder?'  And here Alice began to get
+[ WARNING ][ 2019/12/16 17:10:30.981 ][ Producer 8] rather sleepy, and went on saying to herself, in a dreamy sort of
+[ WARNING ][ 2019/12/16 17:10:31.045 ][ Producer 7] way, `Do cats eat bats?  Do cats eat bats?' and sometimes, `Do
+[ INFO ][ 2019/12/16 17:10:31.079 ][ Producer 1] bats eat cats?' for, you see, as she couldn't answer either
+[ INFO ][ 2019/12/16 17:10:32.036 ][ Producer 6] question, it didn't much matter which way she put it.  She felt
+[ INFO ][ 2019/12/16 17:10:32.257 ][ Producer 3] that she was dozing off, and had just begun to dream that she
+[ WARNING ][ 2019/12/16 17:10:32.533 ][ Producer 8] was walking hand in hand with Dinah, and saying to her very
+[ DEBUG ][ 2019/12/16 17:10:32.590 ][ Producer 0] earnestly, `Now, Dinah, tell me the truth:  did you ever eat a
+[ DEBUG ][ 2019/12/16 17:10:32.875 ][ Producer 2] bat?' when suddenly, thump! thump! down she came upon a heap of
+[ DEBUG ][ 2019/12/16 17:10:32.896 ][ Producer 5] sticks and dry leaves, and the fall was over.
+[ WARNING ][ 2019/12/16 17:10:33.337 ][ Producer 4] 
+[ WARNING ][ 2019/12/16 17:10:33.400 ][ Producer 1]   Alice was not a bit hurt, and she jumped up on to her feet in a
+[ WARNING ][ 2019/12/16 17:10:33.729 ][ Producer 7] moment:  she looked up, but it was all dark overhead; before her
+[ INFO ][ 2019/12/16 17:10:33.954 ][ Producer 7] was another long passage, and the White Rabbit was still in
+[ INFO ][ 2019/12/16 17:10:34.360 ][ Producer 2] sight, hurrying down it.  There was not a moment to be lost:
+[ DEBUG ][ 2019/12/16 17:10:34.447 ][ Producer 7] away went Alice like the wind, and was just in time to hear it
+[ INFO ][ 2019/12/16 17:10:34.463 ][ Producer 6] say, as it turned a corner, `Oh my ears and whiskers, how late
+[ DEBUG ][ 2019/12/16 17:10:34.737 ][ Producer 4] it's getting!'  She was close behind it when she turned the
+[ DEBUG ][ 2019/12/16 17:10:34.837 ][ Producer 4] corner, but the Rabbit was no longer to be seen:  she found
+[ CRITICAL ][ 2019/12/16 17:10:35.018 ][ Producer 1] herself in a long, low hall, which was lit up by a row of lamps
+[ CRITICAL ][ 2019/12/16 17:10:35.114 ][ Producer 4] hanging from the roof.
+[ CRITICAL ][ 2019/12/16 17:10:35.151 ][ Producer 7] 
+[ WARNING ][ 2019/12/16 17:10:35.696 ][ Producer 3]   There were doors all round the hall, but they were all locked;
+[ DEBUG ][ 2019/12/16 17:10:35.920 ][ Producer 0] and when Alice had been all the way down one side and up the
+[ DEBUG ][ 2019/12/16 17:10:36.007 ][ Producer 6] other, trying every door, she walked sadly down the middle,
+[ CRITICAL ][ 2019/12/16 17:10:36.337 ][ Producer 5] wondering how she was ever to get out again.
+[ INFO ][ 2019/12/16 17:10:36.391 ][ Producer 7] 
+[ CRITICAL ][ 2019/12/16 17:10:36.520 ][ Producer 8]   Suddenly she came upon a little three-legged table, all made of
+[ INFO ][ 2019/12/16 17:10:36.562 ][ Producer 4] solid glass; there was nothing on it except a tiny golden key,
+[ CRITICAL ][ 2019/12/16 17:10:36.835 ][ Producer 0] and Alice's first thought was that it might belong to one of the
+[ DEBUG ][ 2019/12/16 17:10:36.874 ][ Producer 4] doors of the hall; but, alas! either the locks were too large, or
+[ DEBUG ][ 2019/12/16 17:10:36.907 ][ Producer 3] the key was too small, but at any rate it would not open any of
+[ WARNING ][ 2019/12/16 17:10:37.109 ][ Producer 4] them.  However, on the second time round, she came upon a low
+[ CRITICAL ][ 2019/12/16 17:10:37.299 ][ Producer 2] curtain she had not noticed before, and behind it was a little
+[ INFO ][ 2019/12/16 17:10:38.163 ][ Producer 0] door about fifteen inches high:  she tried the little golden key
+[ DEBUG ][ 2019/12/16 17:10:38.435 ][ Producer 8] in the lock, and to her great delight it fitted!
+[ CRITICAL ][ 2019/12/16 17:10:38.490 ][ Producer 6] 
+[ INFO ][ 2019/12/16 17:10:38.822 ][ Producer 5]   Alice opened the door and found that it led into a small
+[ DEBUG ][ 2019/12/16 17:10:39.026 ][ Producer 1] passage, not much larger than a rat-hole:  she knelt down and
+[ INFO ][ 2019/12/16 17:10:39.605 ][ Producer 8] looked along the passage into the loveliest garden you ever saw.
+[ CRITICAL ][ 2019/12/16 17:10:39.891 ][ Producer 2] How she longed to get out of that dark hall, and wander about
+[ WARNING ][ 2019/12/16 17:10:40.156 ][ Producer 5] among those beds of bright flowers and those cool fountains, but
+[ DEBUG ][ 2019/12/16 17:10:40.542 ][ Producer 0] she could not even get her head through the doorway; `and even if
+[ INFO ][ 2019/12/16 17:10:40.605 ][ Producer 7] my head would go through,' thought poor Alice, `it would be of
+[ DEBUG ][ 2019/12/16 17:10:40.908 ][ Producer 2] very little use without my shoulders.  Oh, how I wish
+[ CRITICAL ][ 2019/12/16 17:10:41.306 ][ Producer 3] I could shut up like a telescope!  I think I could, if I only
+[ CRITICAL ][ 2019/12/16 17:10:41.847 ][ Producer 4] know how to begin.'  For, you see, so many out-of-the-way things
+[ DEBUG ][ 2019/12/16 17:10:41.873 ][ Producer 6] had happened lately, that Alice had begun to think that very few
+[ WARNING ][ 2019/12/16 17:10:42.007 ][ Producer 7] things indeed were really impossible.
+[ DEBUG ][ 2019/12/16 17:10:42.011 ][ Producer 7] 
+[ DEBUG ][ 2019/12/16 17:10:42.025 ][ Producer 2]   There seemed to be no use in waiting by the little door, so she
+[ CRITICAL ][ 2019/12/16 17:10:42.396 ][ Producer 8] went back to the table, half hoping she might find another key on
+[ CRITICAL ][ 2019/12/16 17:10:42.632 ][ Producer 6] it, or at any rate a book of rules for shutting people up like
+[ CRITICAL ][ 2019/12/16 17:10:43.251 ][ Producer 1] telescopes:  this time she found a little bottle on it, (`which
+[ CRITICAL ][ 2019/12/16 17:10:43.661 ][ Producer 0] certainly was not here before,' said Alice,) and round the neck
+[ CRITICAL ][ 2019/12/16 17:10:43.849 ][ Producer 6] of the bottle was a paper label, with the words `DRINK ME'
+[ INFO ][ 2019/12/16 17:10:43.860 ][ Producer 4] beautifully printed on it in large letters.
+[ WARNING ][ 2019/12/16 17:10:43.890 ][ Producer 4] 
+[ INFO ][ 2019/12/16 17:10:44.410 ][ Producer 8]   It was all very well to say `Drink me,' but the wise little
+[ CRITICAL ][ 2019/12/16 17:10:44.513 ][ Producer 5] Alice was not going to do THAT in a hurry.  `No, I'll look
+[ WARNING ][ 2019/12/16 17:10:45.153 ][ Producer 3] first,' she said, `and see whether it's marked "poison" or not';
+[ INFO ][ 2019/12/16 17:10:45.382 ][ Producer 6] for she had read several nice little histories about children who
+[ INFO ][ 2019/12/16 17:10:45.542 ][ Producer 0] had got burnt, and eaten up by wild beasts and other unpleasant
+[ WARNING ][ 2019/12/16 17:10:45.907 ][ Producer 7] things, all because they WOULD not remember the simple rules
+[ WARNING ][ 2019/12/16 17:10:45.920 ][ Producer 2] their friends had taught them:  such as, that a red-hot poker
+[ CRITICAL ][ 2019/12/16 17:10:46.000 ][ Producer 4] will burn you if you hold it too long; and that if you cut your
+[ INFO ][ 2019/12/16 17:10:46.620 ][ Producer 8] finger VERY deeply with a knife, it usually bleeds; and she had
+[ DEBUG ][ 2019/12/16 17:10:46.799 ][ Producer 1] never forgotten that, if you drink much from a bottle marked
+[ WARNING ][ 2019/12/16 17:10:47.528 ][ Producer 6] `poison,' it is almost certain to disagree with you, sooner or
+[ DEBUG ][ 2019/12/16 17:10:48.295 ][ Producer 2] later.
+[ CRITICAL ][ 2019/12/16 17:10:48.418 ][ Producer 6] 
+[ DEBUG ][ 2019/12/16 17:10:48.525 ][ Producer 7]   However, this bottle was NOT marked `poison,' so Alice ventured
+[ INFO ][ 2019/12/16 17:10:48.736 ][ Producer 6] to taste it, and finding it very nice, (it had, in fact, a sort
+[ WARNING ][ 2019/12/16 17:10:49.134 ][ Producer 5] of mixed flavour of cherry-tart, custard, pine-apple, roast
+[ WARNING ][ 2019/12/16 17:10:49.171 ][ Producer 0] turkey, toffee, and hot buttered toast,) she very soon finished
+[ INFO ][ 2019/12/16 17:10:49.587 ][ Producer 2] it off.
+[ DEBUG ][ 2019/12/16 17:10:49.783 ][ Producer 3] 
+[ DEBUG ][ 2019/12/16 17:10:49.816 ][ Producer 8]      *       *       *       *       *       *       *
+[ CRITICAL ][ 2019/12/16 17:10:50.025 ][ Producer 1] 
+[ CRITICAL ][ 2019/12/16 17:10:50.558 ][ Producer 4]          *       *       *       *       *       *
+[ WARNING ][ 2019/12/16 17:10:50.661 ][ Producer 2] 
+[ CRITICAL ][ 2019/12/16 17:10:50.812 ][ Producer 5]      *       *       *       *       *       *       *
+[ WARNING ][ 2019/12/16 17:10:51.151 ][ Producer 6] 
+[ INFO ][ 2019/12/16 17:10:51.216 ][ Producer 5]   `What a curious feeling!' said Alice; `I must be shutting up
+[ CRITICAL ][ 2019/12/16 17:10:51.332 ][ Producer 7] like a telescope.'
+[ DEBUG ][ 2019/12/16 17:10:51.386 ][ Producer 7] 
+[ WARNING ][ 2019/12/16 17:10:51.940 ][ Producer 7]   And so it was indeed:  she was now only ten inches high, and
+[ DEBUG ][ 2019/12/16 17:10:52.480 ][ Producer 3] her face brightened up at the thought that she was now the right
+[ DEBUG ][ 2019/12/16 17:10:52.937 ][ Producer 1] size for going through the little door into that lovely garden.
+[ DEBUG ][ 2019/12/16 17:10:52.949 ][ Producer 8] First, however, she waited for a few minutes to see if she was
+[ CRITICAL ][ 2019/12/16 17:10:53.163 ][ Producer 2] going to shrink any further:  she felt a little nervous about
+[ WARNING ][ 2019/12/16 17:10:53.680 ][ Producer 0] this; `for it might end, you know,' said Alice to herself, `in my
+[ DEBUG ][ 2019/12/16 17:10:54.511 ][ Producer 6] going out altogether, like a candle.  I wonder what I should be
+[ WARNING ][ 2019/12/16 17:10:54.624 ][ Producer 4] like then?'  And she tried to fancy what the flame of a candle is
+[ DEBUG ][ 2019/12/16 17:10:54.868 ][ Producer 8] like after the candle is blown out, for she could not remember
+[ DEBUG ][ 2019/12/16 17:10:55.121 ][ Producer 5] ever having seen such a thing.
+[ WARNING ][ 2019/12/16 17:10:55.245 ][ Producer 1] 
+[ INFO ][ 2019/12/16 17:10:55.538 ][ Producer 7]   After a while, finding that nothing more happened, she decided
+[ WARNING ][ 2019/12/16 17:10:55.734 ][ Producer 4] on going into the garden at once; but, alas for poor Alice!
+[ DEBUG ][ 2019/12/16 17:10:55.999 ][ Producer 0] when she got to the door, she found she had forgotten the
+[ WARNING ][ 2019/12/16 17:10:56.360 ][ Producer 0] little golden key, and when she went back to the table for it,
+[ DEBUG ][ 2019/12/16 17:10:57.051 ][ Producer 8] she found she could not possibly reach it:  she could see it
+[ DEBUG ][ 2019/12/16 17:10:57.380 ][ Producer 2] quite plainly through the glass, and she tried her best to climb
+[ WARNING ][ 2019/12/16 17:10:57.455 ][ Producer 3] up one of the legs of the table, but it was too slippery;
+[ CRITICAL ][ 2019/12/16 17:10:57.660 ][ Producer 3] and when she had tired herself out with trying,
+[ CRITICAL ][ 2019/12/16 17:10:57.751 ][ Producer 5] the poor little thing sat down and cried.
+[ DEBUG ][ 2019/12/16 17:10:58.131 ][ Producer 6] 
+[ INFO ][ 2019/12/16 17:10:58.335 ][ Producer 2]   `Come, there's no use in crying like that!' said Alice to
+[ DEBUG ][ 2019/12/16 17:10:58.550 ][ Producer 1] herself, rather sharply; `I advise you to leave off this minute!'
+[ WARNING ][ 2019/12/16 17:10:58.999 ][ Producer 7] She generally gave herself very good advice, (though she very
+[ INFO ][ 2019/12/16 17:10:59.902 ][ Producer 8] seldom followed it), and sometimes she scolded herself so
+[ WARNING ][ 2019/12/16 17:10:59.916 ][ Producer 8] severely as to bring tears into her eyes; and once she remembered
+[ INFO ][ 2019/12/16 17:11:00.048 ][ Producer 4] trying to box her own ears for having cheated herself in a game
+[ INFO ][ 2019/12/16 17:11:00.199 ][ Producer 0] of croquet she was playing against herself, for this curious
+[ DEBUG ][ 2019/12/16 17:11:00.501 ][ Producer 7] child was very fond of pretending to be two people.  `But it's no
+[ CRITICAL ][ 2019/12/16 17:11:00.552 ][ Producer 4] use now,' thought poor Alice, `to pretend to be two people!  Why,
+[ WARNING ][ 2019/12/16 17:11:01.086 ][ Producer 6] there's hardly enough of me left to make ONE respectable
+[ CRITICAL ][ 2019/12/16 17:11:01.503 ][ Producer 5] person!'
+[ CRITICAL ][ 2019/12/16 17:11:02.225 ][ Producer 8] 
+[ CRITICAL ][ 2019/12/16 17:11:02.272 ][ Producer 3]   Soon her eye fell on a little glass box that was lying under
+[ WARNING ][ 2019/12/16 17:11:02.395 ][ Producer 5] the table:  she opened it, and found in it a very small cake, on
+[ DEBUG ][ 2019/12/16 17:11:02.933 ][ Producer 6] which the words `EAT ME' were beautifully marked in currants.
+[ CRITICAL ][ 2019/12/16 17:11:03.091 ][ Producer 2] `Well, I'll eat it,' said Alice, `and if it makes me grow larger,
+[ INFO ][ 2019/12/16 17:11:03.108 ][ Producer 1] I can reach the key; and if it makes me grow smaller, I can creep
+[ DEBUG ][ 2019/12/16 17:11:03.401 ][ Producer 5] under the door; so either way I'll get into the garden, and I
+[ INFO ][ 2019/12/16 17:11:03.630 ][ Producer 6] don't care which happens!'
+[ CRITICAL ][ 2019/12/16 17:11:04.338 ][ Producer 4] 
+[ WARNING ][ 2019/12/16 17:11:04.441 ][ Producer 6]   She ate a little bit, and said anxiously to herself, `Which
+[ INFO ][ 2019/12/16 17:11:04.648 ][ Producer 4] way?  Which way?', holding her hand on the top of her head to
+[ INFO ][ 2019/12/16 17:11:05.053 ][ Producer 0] feel which way it was growing, and she was quite surprised to
+[ WARNING ][ 2019/12/16 17:11:05.301 ][ Producer 6] find that she remained the same size:  to be sure, this generally
+[ INFO ][ 2019/12/16 17:11:05.341 ][ Producer 7] happens when one eats cake, but Alice had got so much into the
+[ CRITICAL ][ 2019/12/16 17:11:05.896 ][ Producer 8] way of expecting nothing but out-of-the-way things to happen,
+[ WARNING ][ 2019/12/16 17:11:05.950 ][ Producer 4] that it seemed quite dull and stupid for life to go on in the
+[ DEBUG ][ 2019/12/16 17:11:06.110 ][ Producer 1] common way.
+[ INFO ][ 2019/12/16 17:11:06.301 ][ Producer 3] 
+[ DEBUG ][ 2019/12/16 17:11:06.929 ][ Producer 2]   So she set to work, and very soon finished off the cake.
+[ CRITICAL ][ 2019/12/16 17:11:07.075 ][ Producer 5] 
+[ INFO ][ 2019/12/16 17:11:07.422 ][ Producer 4]      *       *       *       *       *       *       *
+[ DEBUG ][ 2019/12/16 17:11:07.526 ][ Producer 7] 
+[ INFO ][ 2019/12/16 17:11:07.762 ][ Producer 8]          *       *       *       *       *       *
+[ DEBUG ][ 2019/12/16 17:11:07.975 ][ Producer 0] 
+[ INFO ][ 2019/12/16 17:11:08.227 ][ Producer 1]      *       *       *       *       *       *       *
+[ DEBUG ][ 2019/12/16 17:11:08.601 ][ Producer 5] 
+[ WARNING ][ 2019/12/16 17:11:09.187 ][ Producer 2] 
+[ INFO ][ 2019/12/16 17:11:09.821 ][ Producer 6] 
+[ WARNING ][ 2019/12/16 17:11:10.295 ][ Producer 6] 
+[ WARNING ][ 2019/12/16 17:11:10.302 ][ Producer 1]                            CHAPTER II
+[ DEBUG ][ 2019/12/16 17:11:10.594 ][ Producer 2] 
+[ INFO ][ 2019/12/16 17:11:10.891 ][ Producer 4]                         The Pool of Tears
+[ INFO ][ 2019/12/16 17:11:11.017 ][ Producer 4] 
+[ CRITICAL ][ 2019/12/16 17:11:11.160 ][ Producer 3] 
+[ CRITICAL ][ 2019/12/16 17:11:11.246 ][ Producer 7]   `Curiouser and curiouser!' cried Alice (she was so much
+[ DEBUG ][ 2019/12/16 17:11:11.499 ][ Producer 1] surprised, that for the moment she quite forgot how to speak good
+[ WARNING ][ 2019/12/16 17:11:11.881 ][ Producer 5] English); `now I'm opening out like the largest telescope that
+[ DEBUG ][ 2019/12/16 17:11:12.363 ][ Producer 0] ever was!  Good-bye, feet!' (for when she looked down at her
+[ WARNING ][ 2019/12/16 17:11:12.594 ][ Producer 8] feet, they seemed to be almost out of sight, they were getting so
+[ CRITICAL ][ 2019/12/16 17:11:12.679 ][ Producer 0] far off).  `Oh, my poor little feet, I wonder who will put on
+[ INFO ][ 2019/12/16 17:11:12.863 ][ Producer 4] your shoes and stockings for you now, dears?  I'm sure _I_ shan't
+[ INFO ][ 2019/12/16 17:11:13.332 ][ Producer 5] be able!  I shall be a great deal too far off to trouble myself
+[ CRITICAL ][ 2019/12/16 17:11:13.495 ][ Producer 2] about you:  you must manage the best way you can; --but I must be
+[ DEBUG ][ 2019/12/16 17:11:14.134 ][ Producer 8] kind to them,' thought Alice, `or perhaps they won't walk the
+[ INFO ][ 2019/12/16 17:11:14.141 ][ Producer 6] way I want to go!  Let me see:  I'll give them a new pair of
+[ DEBUG ][ 2019/12/16 17:11:14.263 ][ Producer 1] boots every Christmas.'
+[ WARNING ][ 2019/12/16 17:11:14.320 ][ Producer 3] 
+[ INFO ][ 2019/12/16 17:11:14.350 ][ Producer 8]   And she went on planning to herself how she would manage it.
+[ WARNING ][ 2019/12/16 17:11:15.156 ][ Producer 1] `They must go by the carrier,' she thought; `and how funny it'll
+[ DEBUG ][ 2019/12/16 17:11:15.905 ][ Producer 7] seem, sending presents to one's own feet!  And how odd the
+[ DEBUG ][ 2019/12/16 17:11:16.438 ][ Producer 2] directions will look!
+[ INFO ][ 2019/12/16 17:11:16.513 ][ Producer 3] 
+[ CRITICAL ][ 2019/12/16 17:11:16.754 ][ Producer 4]             ALICE'S RIGHT FOOT, ESQ.
+[ WARNING ][ 2019/12/16 17:11:16.768 ][ Producer 4]                 HEARTHRUG,
+[ INFO ][ 2019/12/16 17:11:16.966 ][ Producer 5]                     NEAR THE FENDER,
+[ INFO ][ 2019/12/16 17:11:17.232 ][ Producer 8]                         (WITH ALICE'S LOVE).
+[ INFO ][ 2019/12/16 17:11:17.433 ][ Producer 0] 
+[ INFO ][ 2019/12/16 17:11:17.826 ][ Producer 2] Oh dear, what nonsense I'm talking!'
+[ WARNING ][ 2019/12/16 17:11:17.886 ][ Producer 7] 
+[ CRITICAL ][ 2019/12/16 17:11:18.353 ][ Producer 3]   Just then her head struck against the roof of the hall:  in
+[ INFO ][ 2019/12/16 17:11:18.521 ][ Producer 4] fact she was now more than nine feet high, and she at once took
